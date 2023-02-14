@@ -1,1 +1,0 @@
-# satori-bug-reproduce
